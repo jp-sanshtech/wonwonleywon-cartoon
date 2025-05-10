@@ -13,13 +13,13 @@ const Contactus = () => {
             className={classes.contactText} 
             style={{ marginTop: "28px", lineHeight: "1.47", padding: "0 1px" }} // Adjust lineHeight and padding for better spacing
           >
-           to become a model, work with us, hire our models, or for any other questions, email us at{' '}
+           to become a member, work with us or for any other questions, email us at{' '}
             <a 
-              href="mailto:support@wonwonleywonmodels.com" 
+              href="mailto:support@wonwonleywonclub.com" 
               className={classes.emailLink} 
               style={{ color: "black", marginTop: "25px" }}
             >
-              support@wonwonleywonmodels.com
+              support@wonwonleywonclub.com
             </a>
           </p>
         </div>

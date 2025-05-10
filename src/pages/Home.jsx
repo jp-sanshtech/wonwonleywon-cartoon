@@ -12,15 +12,10 @@ const Home = () => {
         </NavLink>
       </Line>
 
-      <Line type="bottom-line">
-        <NavLink to="/model/" className={classes.navLink}>
-          models
-        </NavLink>
-      </Line>
 
       <Line type="bottom-line">
         <a
-          href="https://www.instagram.com/wonwonleywonmodels"
+          href="https://www.instagram.com/wonwonleywonclub"
           target="_blank"
           rel="noopener noreferrer"
           className={classes.navLink}

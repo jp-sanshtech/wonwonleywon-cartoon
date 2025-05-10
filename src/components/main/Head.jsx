@@ -9,7 +9,7 @@ const Head = () => {
       <Link to="/">
         <img 
           src={logo} 
-          style={{ width: '136px' , height: 'auto' , marginLeft:"6px" , marginTop : "3px"}} // Adjust the size as necessary
+          style={{ width: '127px' , height: 'auto' , marginLeft:"6px" , marginTop : "3px"}} // Adjust the size as necessary
           alt="Logo" 
           className={classes.logo}
         />

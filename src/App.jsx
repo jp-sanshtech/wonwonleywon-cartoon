@@ -7,6 +7,8 @@ import Home from './pages/Home';
 import Contactus from './pages/Contactus';
 import Artists from './pages/Artists';
 import LoginPage from './pages/Login';
+import classes from "./components/css/Home.module.css";
+// import "./App.css";
 import AdminPanel from './pages/AdminPanel';
 
 
@@ -14,8 +16,9 @@ const App = () => {
   return (
 <>
       <Head></Head>
-    <Routes>
+<div className={classes.links}>
 
+    <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/aboutus" element={<Aboutus />} />
       <Route path="/contactus" element={<Contactus />} />
@@ -23,6 +26,7 @@ const App = () => {
       <Route path="/adminlogin" element={<LoginPage />} />
       <Route path="/admin-panel" element={<AdminPanel />} />
     </Routes>
+</div>
 </>
   );
 };

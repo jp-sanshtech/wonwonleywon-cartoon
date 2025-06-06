@@ -7,22 +7,26 @@ const Contactus = () => {
   return (
     <>
       <BackButton />
-      <Line type="bottom-lin">
-        <div className={classes.contactContainer}>
-          <p 
-            className={classes.contactText} 
-            style={{ marginTop: "28px", lineHeight: "1.47", padding: "0 1px" }} // Adjust lineHeight and padding for better spacing
-          >
+      <Line  
+        className={classes.navLink}
+        style={{
+          display: "flex",
+          alignItems: "center",
+          padding: "1rem",
+          flexWrap: "wrap",
+        }}>
+       
            to become a member, work with us or for any other questions, email us at{' '}
             <a 
-              href="mailto:support@wonwonleywonclub.com" 
-              className={classes.emailLink} 
-              style={{ color: "black", marginTop: "25px" }}
+             href="mailto:support@wonwonleywonmusic.com"
+          style={{
+            color: "black",
+            textDecoration: "underline",
+            marginLeft: "5px",
+          }}
             >
               support@wonwonleywonclub.com
             </a>
-          </p>
-        </div>
       </Line>
     </>
   );

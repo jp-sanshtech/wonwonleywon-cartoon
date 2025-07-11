@@ -18,7 +18,7 @@ const Contactus = () => {
        
            to become a member, work with us or for any other questions, email us at{' '}
             <a 
-             href="mailto:support@wonwonleywonmusic.com"
+             href="mailto:support@wonwonleywonclub.com"
           style={{
             color: "black",
             textDecoration: "underline",

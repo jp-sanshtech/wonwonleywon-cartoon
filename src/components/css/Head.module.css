@@ -9,7 +9,7 @@
 /* Mobile responsiveness */
 @media (max-width: 768px) {
   .logo {
-    height: 33px; /* smaller logo on mobile */
+    height: 23px; /* smaller logo on mobile */
   }
 }
 

@@ -40,7 +40,7 @@ const Aboutus = () => {
             href="https://www.wonwonleywon.com"
             target="_blank"
             rel="noopener noreferrer"
-            style={{ color: "black", textDecoration: "underline", padding: "5px" }}
+            style={{ color: "black", textDecoration: "underline", padding: "0px" }}
           >
             wonwonleywon
           </a>{" "}

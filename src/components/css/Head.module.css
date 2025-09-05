@@ -10,7 +10,7 @@
 @media (max-width: 768px) {
   .logo {
     height: 14px; /* smaller logo on mobile */
-     max-width: 150px;
+     max-width: 135px;
   }
 }
 

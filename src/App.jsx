@@ -9,7 +9,7 @@ import LoginPage from './pages/Login';
 import classes from "./components/css/Home.module.css";
 // import "./App.css";
 import AdminPanel from './pages/AdminPanel';
-import Characters from './pages/characters';
+import Characters from './pages/Characters';
 
 
 const App = () => {

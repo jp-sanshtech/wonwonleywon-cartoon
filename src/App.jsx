@@ -5,11 +5,11 @@ import Head from './components/main/Head';
 import Aboutus from './pages/Aboutus';
 import Home from './pages/Home';
 import Contactus from './pages/Contactus';
-import Artists from './pages/Artists';
 import LoginPage from './pages/Login';
 import classes from "./components/css/Home.module.css";
 // import "./App.css";
 import AdminPanel from './pages/AdminPanel';
+import Characters from './pages/characters';
 
 
 const App = () => {
@@ -22,7 +22,7 @@ const App = () => {
       <Route path="/" element={<Home />} />
       <Route path="/aboutus" element={<Aboutus />} />
       <Route path="/contactus" element={<Contactus />} />
-      <Route path="/model" element={<Artists />} />
+      <Route path="/characters" element={<Characters />} />
       <Route path="/adminlogin" element={<LoginPage />} />
       <Route path="/admin-panel" element={<AdminPanel />} />
     </Routes>

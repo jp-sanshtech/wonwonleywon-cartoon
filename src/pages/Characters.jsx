@@ -3,7 +3,7 @@ import Line from '../components/main/Line.jsx';
 import classes from '../components/css/Home.module.css';
 
 
-const Contactus = () => {
+const Characters = () => {
   return (
     <>
       <BackButton />
@@ -16,20 +16,10 @@ const Contactus = () => {
           flexWrap: "wrap",
         }}>
        
-           to work with us or for any other questions, email us at{' '}
-            <a 
-             href="mailto:support@wonwonleywoncartoon.com"
-          style={{
-            color: "black",
-            textDecoration: "underline",
-            marginLeft: "5px",
-          }}
-            >
-              support@wonwonleywoncartoon.com
-            </a>
+          characters coming soon
       </Line>
     </>
   );
 };
 
-export default Contactus;
+export default Characters;

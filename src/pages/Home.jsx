@@ -11,6 +11,12 @@ const Home = () => {
           about us
         </NavLink>
       </Line>
+      
+      <Line type="bottom-line">
+        <NavLink to="/characters/" className={classes.navLink}>
+          characters
+        </NavLink>
+      </Line>
 
 
       {/* <Line type="bottom-line">

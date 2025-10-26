@@ -16,26 +16,20 @@ const Aboutus = () => {
           flexWrap: "wrap",
         }}
       >
-        we are a cartoon character company dedicated to creating a better world
-        through our universe of positivity people. we do this through creating
-        collectibles, content, and nft projects from our cartoon characters
-        called “positivity people”. in a world that sometimes seems dark and
-        divided, positivity people spread positivity, love and light, to make
-        this world a better place. we also hope these characters can support our
-        viewers/owners to become the best version of themselves.
-        
+        we are a cartoon character company. our mission: make planet earth a better place. we attempt to achieve
+        this mission through collectibles, content, and nft projects featuring our human cartoons. we also hope these
+        characters can support our viewers/owners to become the best version of themselves.
+
         <p style={{ marginLeft: "-7px" }}>
-          note - we plan to build this company into a next generation character
-          ip (from our positivity people), that utilizes nfts, web3, and
-          blockchain technology to deliver long term value through ownership,
-          community, and culture, across both physical and digital experiences.
-          this ensures your investment and involvement in wonwonleywon cartoon
-          is future ready, aligned with the technologies and cultural shifts
-          shaping the next decade.
+          note - we plan to build this company into a next generation character ip (from our human cartoons), that
+          utilizes nfts, web3, and blockchain technology to deliver long term value through ownership, community,
+          and culture, across both physical and digital experiences. this ensures your investment and involvement in
+          wonwonleywon cartoon is future ready, aligned with the technologies and cultural shifts shaping the next
+          decade.
         </p>
 
         <p style={{ marginLeft: "-7px" }}>
-          We are a company of the{" "}
+          we are a company of the{" "}
           <a
             href="https://www.wonwonleywon.com"
             target="_blank"

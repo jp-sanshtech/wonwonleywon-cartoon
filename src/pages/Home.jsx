@@ -19,9 +19,9 @@ const Home = () => {
       </Line>
 
 
-      {/* <Line type="bottom-line">
+      <Line type="bottom-line">
         <a
-          href="https://www.instagram.com/wonwonleywonclub"
+          href="https://www.instagram.com/wonwonleywoncartoon/"
           target="_blank"
           rel="noopener noreferrer"
           className={classes.navLink}
@@ -29,11 +29,11 @@ const Home = () => {
         >
           instagram
         </a>
-      </Line> */}
+      </Line> 
 
-      {/* <Line type="bottom-line">
+     <Line type="bottom-line">
         <a
-          href="https://www.tiktok.com/@wonwonleywonmusic?_t=ZT-8t4cCGNhE3a&_r=1"
+          href="https://www.tiktok.com/@wonwonleywoncartoon"
           target="_blank"
           rel="noopener noreferrer"
           className={classes.navLink}
@@ -43,7 +43,7 @@ const Home = () => {
         </a>
       </Line>
 
-      <Line type="bottom-line">
+       {/* <Line type="bottom-line">
         <a
           href="https://www.youtube.com/@wonwonleywonmusic"
           target="_blank"
